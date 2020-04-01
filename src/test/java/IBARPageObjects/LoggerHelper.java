@@ -1,4 +1,4 @@
-package PageObjects;
+package IBARPageObjects;
 
 	import org.apache.log4j.Logger;
 	import org.apache.log4j.PropertyConfigurator;
